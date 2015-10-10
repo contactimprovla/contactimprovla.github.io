@@ -1,6 +1,5 @@
 # Site settings
 title: Contact Improv LA
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Contact Improvisation in Los Angeles
 baseurl: "" # the subpath of your site, e.g. /blog/
