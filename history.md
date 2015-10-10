@@ -1,0 +1,21 @@
+---
+layout: page
+title: History
+permalink: /history/
+---
+
+Contact Improvisation or Contact Improv,... or just CI, has been described by many people in many different ways.  To some it is a physics laboratory in which they can experiment with the forces of nature, acrobatically pushing their bodies to the limits of their capacities.  To others it is the endless pool of relationship, where they can plunge into the depths of communication, intimacy, and even sensuality (with the right partner,.. Of course).  Nancy Stark Smith, one of the forms early pioneers, defined it this way…”Contact Improvisation is a dance form based on the communication between two or more moving bodies that are in physical contact and their combined relationship to the physical laws that govern their motion—gravity, momentum, inertia.
+The body, in order to open to these sensations, must learn to release excess muscular tension and abandon a certain quality of willfulness to experience the natural flow of movement. Practice includes rolling, falling, being upside down, following a physical point of contact, supporting and giving weight to a partner.
+Contact improvisations are spontaneous physical dialogues that range from stillness to highly energetic exchanges. Alertness is developed in order to work in an energetic state of physical disorientation, trusting in one’s basic survival instincts. It is a free play with balance, self-correcting the wrong moves and reinforcing the right ones, bringing forth a physical/emotional truth about a shared moment of movement that leaves the participants informed, centered, and enlivened.
+
+Contact Improvisation emerged from modern dance’s tradition of rebelling against the rigidity of balletic structures.  With Contact Improvisation  Steve Paxton, generally considered to be the creator of CI, took this rebellion to a new level.
+
+In 1961, Paxton joined Merce Cunningham’s Company, where he was exposed to the idea that any movement could be dance and any body could be a dancer.  Paxton himself became disenchanted with what he saw in the dance community of the day, as a narrow version of physical beauty and began exploring in a much broader way.  He became interested in our day to day physical activates as performance which led him away from what he considered to be the “dictatorship” of standard choreographic models, in which dancers would try to imitate the movement of a choreographer.  Instead, he emphasized a more explorative approach in which he would create situations to inspire and/or encourage movement.  This would be done by setting a “score“, which consisted of a set of perimeters within which the “dancers“ interact to create and discover their “dance“.   His approach drew strongly from the work of improvisational performers of that era such as Ana Halprin, Eugene Lyons and Yvonne Rainer.
+
+In January of 1972, at Oberlin College, Paxton taught a group of students an improvisational score called “Magnesium”, which they performed for an audience in a large gymnasium.  This work is often referred to as the birth of Contact Improvisation as a performance art form.   The early work “Magnesium”  has been describe as a rather mechanical, almost robotic, exploration of movement and interaction.  But Paxton soon shifted his focus to more relationship/communication oriented expirations, of the sort  described in Ms. Smiths definition.
+
+In 2008 I had the opportunity to meet Mr. Paxton and experience a score led by him.  A “stand” he called it.   Paired dancers standing face to face with foreheads touching,… allowing the awareness of the shared space of contact to create any motion, how ever large or small.  While other pairs found their ways into rather elaborate dances, Paxton and his partner moved only centimeters in the 15 or so minutes of the exercise.  The man he partnered with for the score later described the experience as listening down to the cellular level were their heads where in contact.
+
+It seemed clear that the skill of listening is an essence of the form that Mr. Paxton has maintained great value for.   Personally, I have come to view this ability to mutually listen, or share and even “merge” awareness with another as the primary essence of CI.  And from that shared essence, flows seemingly endless permutations of experience to explore.
+
+-Jeffrey Nash
