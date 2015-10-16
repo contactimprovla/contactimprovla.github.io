@@ -41,7 +41,7 @@ certain advanced skills, you can start by simply doing. Show up at the LA jam
 and let people know that you’re new to contact improvisation. People will be
 happy to give you introductory instruction.
 
-The Bring (or Be) a Beginner Night takes place once  every month at the Los
+The Bring (or Be) a Beginner Night takes place once every month at the Los
 Angeles – Santa Monica jam, at which beginners are especially encouraged to
 attend and we start the evening with a class/warmup suitable for all levels.
 Please click back to the “CONTACT IMPROVISATION LA” link above to find
