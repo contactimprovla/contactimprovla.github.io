@@ -1,11 +1,18 @@
 ---
-layout: default
+layout: index
 ---
 
-![Shot](/images/nickkloii_horizontal.jpg)
 
-Next Jam: Sunday October 18th 6:30pm - 9:00pm*
-=====
+<div style="display: inline-block; position: relative;">
+<img src="/images/nickkloii_horizontal.jpg" />
+<div style="position: absolute; background-color: rgba(255, 255, 255, 0.0); padding: 5px; bottom: 0px; left: 50px; font-size: 180%;">
+<div style="margin-botom: 0px; font-size: 75%">Next Jam:</div>
+<span style="padding-top: 0px; font-size: 125%">Sunday</span>
+<span id="next_month" style="font-size: 100%"></span>
+<span id="next_day" style="font-size: 150%"></span>
+<div style="float: right; padding-right: 1em;">6:30pm - 9:00pm*</div>
+</div>
+</div>
 
 ### Contact Improv LA meets every Sunday at Dance Home in downtown Santa Monica.  Everyone is invited to drop in at anytime.  The dance is $7 or what you can pay.  Your second time is free!  ###
 
