@@ -4,9 +4,6 @@ title: Venue & Parking
 permalink: /venue/
 ---
 
-* TOC
-{:toc}
-
 Location
 =====
 
