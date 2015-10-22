@@ -16,11 +16,39 @@ layout: index
 
 <br />
 
-### Contact Improv LA meets every Sunday at Dance Home in downtown Santa Monica.  Everyone is invited to drop in at anytime.  The dance is $7 or what you can pay.  Your second time is free!  ###
+### Contact Improv LA meets every Sunday at [Dance Home](/venue) in downtown Santa Monica.  Everyone is invited to drop in at anytime.  The dance is $7 or what you can pay.  Your second time is free!  ###
 
 <div style="float: right;">
 *Live music nights go until 10pm
 </div>
+
+<br />
 <br />
 
-<div class="iframe-wrap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.026505593861!2d-118.4956940844659!3d34.01753058061537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2a4ce67b24be5%3A0x2117628d38bcf5bf!2s522+Santa+Monica+Blvd%2C+Santa+Monica%2C+CA+90401!5e0!3m2!1sen!2sus!4v1444471809394" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+### [Special Events on ![Facebook](/images/FB-f-Logo__blue_50.png)](https://www.facebook.com/groups/ContactImprovLA/events/) ###
+
+<br />
+
+What is Contact Improvisation?
+=====
+
+> "Contact Improvisation is a dance form based on the communication between two or more moving bodies that are in physical contact and their combined relationship to the physical laws that govern their motion—gravity, momentum, inertia."
+> - Nancy Stark Smith
+
+> "Contact improvisations are spontaneous physical dialogues that range from stillness to highly energetic exchanges. Alertness is developed in order to work in an energetic state of physical disorientation, trusting in one's basic survival instincts. It is a free play with balance, self-correcting the wrong moves and reinforcing the right ones, bringing forth a physical/emotional truth about a shared moment of movement that leaves the participants informed, centered, and enlivened."
+> - early definition by Steve Paxton and others, 1970s, 
+from CQ Vol. 5:1, Fall 1979
+
+Contact improvisation (or CI, or "contact") has always been difficult to
+define, in part because it’s intentionally undefined, in part because it
+continues to evolve and change.
+
+However, one definition might be that contact improvisation is a social dance
+that arises out of modern dance traditions. One of its central principles is a
+rolling point of contact between two (sometimes less, sometimes more) people
+through which both dancers give and share weight. It’s somewhere between tango,
+modern dance, aikido, wrestling, gymnastics, and none of the above, and usually
+takes place without music. People dance contact in any combination of genders,
+there are no “steps,” and it’s entirely improvised.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gi-OaiQvnTU" frameborder="0" allowfullscreen></iframe>
