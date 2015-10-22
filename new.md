@@ -9,7 +9,10 @@ musicless dance forms that you can do. It’s for people of all body types, ages
 backgrounds, and athletic ability. We at the Los Angeles jam pride ourselves on
 being friendly and open to newcomers - we love to see new people falling in
 love with contact improvisation and we love beginners’ energy. The only rule is
-that each dancer is responsible for his/her own safety and comfort.
+that each dancer is responsible for his/her own safety and comfort.  For more information, visit
+<a href="http://www.contactquarterly.com/contact-improvisation/about/" target="_blank">Contact Quarterly</a>.
+
+
 
 
 * TOC
