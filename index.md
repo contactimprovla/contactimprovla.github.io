@@ -20,14 +20,15 @@ published: true
 
 ### Contact Improv LA meets every Sunday at [Dance Home](/venue) in downtown Santa Monica.  Everyone is invited to drop in at anytime.  The dance is $7 or what you can pay.  Your second time is free!  ###
 
-### December 22nd is our next music jam with Jeff Ali.###
-
 <div style="float: right;">
 *Live music nights go until 10pm
 </div>
 
 <br />
 <br />
+
+### December 22nd is our next music jam with Jeff Ali.###
+
 
 ### [Special Events on ![Facebook](/images/FB-f-Logo__blue_50.png)](https://www.facebook.com/groups/ContactImprovLA/events/) ###
 
