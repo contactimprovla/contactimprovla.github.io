@@ -5,6 +5,7 @@ published: true
 
 
 
+
 <div style="display: inline-block; position: relative;">
 <img src="/images/nickkloii_horizontal.jpg" />
 <div style="position: absolute; background-color: rgba(255, 255, 255, 0.0); padding: 5px; bottom: 0px; left: 0.5em; font-size: 180%;">
@@ -18,7 +19,7 @@ published: true
 
 <br />
 
-### Contact Improv LA meets every Sunday at [Dance Home](/venue) in downtown Santa Monica.  Everyone is invited to drop in at anytime.  The dance is $7 or what you can pay.  Your second time is free!  ###
+### Contact Improv LA meets every Sunday at [Dance Home](/venue) in downtown Santa Monica.  Everyone is invited to drop in at anytime.  The first half hour of the jam is a guilded, contact skill building warmup, followed by the opening circle at 7pm.  The dance is $7 or what you can pay.  Your second time is free!  ###
 
 <div style="float: right;">
 *Live music nights go until 10pm
@@ -27,7 +28,7 @@ published: true
 <br />
 <br />
 
-### December 22nd is our next music jam with Jeff Ali.###
+### December 20th is our next music jam with Brian Wood.###
 
 
 ### [Special Events on ![Facebook](/images/FB-f-Logo__blue_50.png)](https://www.facebook.com/groups/ContactImprovLA/events/) ###
