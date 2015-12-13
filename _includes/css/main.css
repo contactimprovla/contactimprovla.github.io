@@ -159,6 +159,7 @@ nav ul li a:hover {
 }
 nav ul li:hover, nav ul li.active {
   border-top-width: {{navborder_active}}px;
+  border-top-color: {{ site.colors.green }};
   padding-top: 0;
 }
 
