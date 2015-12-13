@@ -27,10 +27,10 @@ published: true
 </div>
 
 <br />
-<br />
 
 ### Two music Jams this month! December 13th with Jeff Ali and December 20th with Brian Wood.###
 
+<br />
 
 ### [Special Events on ![Facebook](/images/FB-f-Logo__blue_50.png)](https://www.facebook.com/groups/ContactImprovLA/events/) ###
 
