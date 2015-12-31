@@ -90,22 +90,4 @@ $(document).ready(function() {
             });
         }
     });
-
-    var MONTHS = ["January", "February", "March", "April", "May", "June",
-        "July", "August", "September", "October", "November", "December"
-    ];
-    var day = new Date();
-    while (day.getDay() != 0) {
-        day.setTime(day.getTime() + (24 * 60 * 60 * 1000));
-    }
-    document.getElementById("next_month").innerHTML = MONTHS[day.getMonth()];
-    var day_of_month = day.getDate();
-    if (day_of_month == 1) {
-        day_of_month = day_of_month + "st";
-    } else if (day_of_month == 2 || day_of_month == 3) {
-        day_of_month = day_of_month + "nd";
-    } else {
-        day_of_month = day_of_month + "th";
-    }
-    document.getElementById("next_day").innerHTML = day_of_month;
 });
