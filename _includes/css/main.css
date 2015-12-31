@@ -182,13 +182,21 @@ nav ul li:hover, nav ul li.active {
 
 
 #footer {
+  border-top: 1px solid #bbb;
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
-  background-image:none;
+  color: #111111;
 }
-#footer .container p { font-size:13px; margin:0; }
+#footer .container p {
+  font-size:13px; margin:0;
+}
+#footer i {
+  font-size:40px
+}
+#footer a {
+  color: #111111;
+}
 
 .subtlecircle {
   text-align:center;
