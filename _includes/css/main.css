@@ -172,8 +172,16 @@ nav ul li:hover, nav ul li.active {
   width:100%;
   min-height:300px;
   padding:210px 0;
-  background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
+  background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAVlpVFh0WE1\
+MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZj\
+pSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6Y\
+WJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlv\
+bj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KTMInWQAAASVJREFUOBF\
+9lIsNgkAQRBVJrIRiaIZiaIZioBh9F58Z1sNLdHbns7ca8bHv+/M4jnGapnHbttG69lVDrx76YVmWG2dd1xs12Dtq6HpE8+CdDSkcTI0x+ysOnpP++zzPba\
+BCc3zeekORks9haG2gq2usJoxXp2YHjAziVcUcolZRj/xooQDCua196tTqor7ThpKavCz7rPFz0td+NhBJpqkl3m8Oqr05+bahTWIOMJQcXvnMtd+hxjTI1\
+WDyDiIHD/48KZpEzfSG8mJ94mlDSYckovW2MyN2BypWdLMcnBz191k2nGY50Y2vevjvd5gmam+WB72sp+k7/TlIVqyboVfO/vTouYED3UQ+ezm9YvvIKRrC\
+AJ+aITB99Pjghiog/jtXF5h5AWTW7iwpBbRQAAAAAElFTkSuQmCC');
 }
 
 .section:first-of-type {
